@@ -30,7 +30,7 @@ const Services = () => {
   >
     <span>Learn More</span>
     <img
-      src="/assets/arrow.png" // Ensure this is the path to your arrow icon
+      src="/assets/Arrow.png" 
       alt="Arrow"
       className="w-4 h-4"
     />
@@ -58,7 +58,7 @@ const Services = () => {
   >
     <span>Learn More</span>
     <img
-      src="/assets/arrow.png" // Ensure this is the path to your arrow icon
+      src="/assets/Arrow.png" 
       alt="Arrow"
       className="w-4 h-4"
     />
@@ -86,7 +86,7 @@ const Services = () => {
   >
     <span>Learn More</span>
     <img
-      src="/assets/arrow.png" // Ensure this is the path to your arrow icon
+      src="/assets/Arrow.png" 
       alt="Arrow"
       className="w-4 h-4"
     />
@@ -114,7 +114,7 @@ const Services = () => {
   >
     <span>Learn More</span>
     <img
-      src="/assets/arrow.png" // Ensure this is the path to your arrow icon
+      src="/assets/arrow.png" 
       alt="Arrow"
       className="w-4 h-4"
     />
@@ -142,7 +142,7 @@ const Services = () => {
   >
     <span>Learn More</span>
     <img
-      src="/assets/arrow.png" // Ensure this is the path to your arrow icon
+      src="/assets/Arrow.png" 
       alt="Arrow"
       className="w-4 h-4"
     />
@@ -170,7 +170,7 @@ const Services = () => {
   >
     <span>Learn More</span>
     <img
-      src="/assets/arrow.png" // Ensure this is the path to your arrow icon
+      src="/assets/Arrow.png" 
       alt="Arrow"
       className="w-4 h-4"
     />
